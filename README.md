@@ -1,3 +1,4 @@
 # javaDemo
-some java Samples <\n>
+some java Samples
+
 This is a Test.
